@@ -11,6 +11,6 @@ Matplotlib and numpy.
 1. Have Python 3 or greater installed
 2. Clone this repository
 3. Run 'main.py'
-A matplotlib window should have popped up
-4. Click and drag the sliders to x and y coordinates you want and click "Add"
-5. Continue until the "Play Animation" pops up or the animation plays automatically due to entering the maximum number of data points
+4. A matplotlib window should have popped up
+5. Click and drag the sliders to x and y coordinates you want and click "Add"
+6. Continue until the "Play Animation" pops up or the animation plays automatically due to entering the maximum number of data points
