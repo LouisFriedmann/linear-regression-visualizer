@@ -7,7 +7,7 @@ See how linear regression is derived visually, mathematically, and programmatica
 ## __Technologies/libraries__
 Matplotlib and numpy. 
 
-## __Instructions__
+## __Installation and Running Instructions__
 1. Have Python 3 or greater installed
 2. Clone this repository
 3. Run 'main.py'
