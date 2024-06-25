@@ -1,8 +1,6 @@
 # Linear regression visualizer will show the user a process visually of how to fit
 # a linear equation in general form of their choice to a certain number of data points they choose
 
-# Inspired by the YouTuber: numericalmethodsguy. Video link: https://youtu.be/DSQ2plMtbLc?si=rf40KbN_7-J251-O
-
 # Project general outline:
 # 1. Prompt the user for a number of data points in a certain range
 # 3. Display a window of their selected data points for each one they select
